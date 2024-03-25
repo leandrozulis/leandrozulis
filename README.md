@@ -17,5 +17,4 @@
   <img align="center" alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
 </div>
 
-Programador em busca da primeira oportunidade.
 Formado em ADS e atualmente me tornando especilista em NodeJS através do curso da RocketSeat Ignite!! 🚀
